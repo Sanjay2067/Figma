@@ -201,9 +201,7 @@ Figma
 ## OUTPUT:
 <img width="1920" height="1080" alt="Screenshot 2025-11-10 114447" src="https://github.com/user-attachments/assets/df2eefd1-2087-4f24-893a-d0d739951437" />
 
-click here to view prototype 🔻
 
-https://www.figma.com/proto/XftENAtZnmOMCwPmIQxujk/Untitled?node-id=0-1&t=TDhU7793cL9ifVzN-1
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
